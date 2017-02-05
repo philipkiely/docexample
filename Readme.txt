@@ -1,0 +1,1 @@
+This website is made using the Django documentation tutorial, and does not constitute original work. I am only posting it on Github for practice working with git and Github. All code used is available at https://docs.djangoproject.com/en/1.10/intro/tutorial01/ for  reference. 
